@@ -1,7 +1,7 @@
 import React from 'react';
 import {
   Container,
-  ContactBar,
+  // ContactBar,
   Content,
   Page,
   Sidebar,
